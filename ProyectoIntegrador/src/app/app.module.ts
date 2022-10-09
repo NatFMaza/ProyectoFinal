@@ -8,7 +8,6 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { HeaderComponent } from './components/header/header.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
-import { SocialComponent } from './components/social/social.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { FormsModule } from '@angular/forms';
@@ -24,7 +23,6 @@ import { FooterComponent } from './components/footer/footer.component';
     EducacionComponent,
     HeaderComponent,
     LogoAPComponent,
-    SocialComponent,
     BannerComponent,
     HysComponent,
     ProyectoComponent,

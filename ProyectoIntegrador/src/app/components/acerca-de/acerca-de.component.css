@@ -3,10 +3,12 @@
 }
 div{
     text-align: center;
+    font-size: 20px;
+    font-style:oblique;
 }
 img{
     border-radius: 100%;
-    box-shadow: 5px 5px 10px rgb(73, 131, 99);
+    box-shadow: 0px 6px 7px rgb(157, 69, 168);
     /*Box Shadow (eje x, eje y, difuminado, color)*/
 }
 /*estilo de foto de perfil*/
@@ -20,7 +22,7 @@ img{
 @media (min-width:576px){
     #fotodeperfil{
         width: 70%;
-        margin-top: -140px;
+        margin-top: -100px;
         margin-left: 5px;
     }
 }

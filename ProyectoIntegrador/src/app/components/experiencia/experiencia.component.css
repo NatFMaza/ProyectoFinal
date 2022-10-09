@@ -1,7 +1,11 @@
 .row{
     padding: 20px;
 }
-
+div{
+    text-align: center;
+    font-size: 20px;
+    font-style:oblique;
+}
 h1,h3{
     display: inline;
 }
